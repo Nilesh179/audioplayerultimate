@@ -1,5 +1,5 @@
-# audioplayerultimate
+# Audio-Player-Ultimate
 
-A audio player plugin aim to play audio even in background and from streams at any bitrates.
+Audio Player plugin aims to play audio even in the background and from the streams at any bitrates.
 
-on the go keeep watching ......
+For your on the go watching ......
